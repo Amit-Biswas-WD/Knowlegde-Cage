@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/Zx3Z1LD/download.png",
+    "title": "Mastering React Hooks",
+    "author": "John Doe",
+    "author_image": "https://i.ibb.co.com/mDMB4cR/download.jpg",
+    "posted_date": "2024-11-10",
+    "reading_time": 5,
+    "hashtags": ["#React", "#WebDevelopment", "#JavaScript"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/S3wygnj/images.jpg",
+    "title": "Understanding Node.js Internals",
+    "author": "Jane Smith",
+    "author_image": "https://i.ibb.co.com/qyTFN5p/330868769-507462611540020-3681232026882639073-n.jpg",
+    "posted_date": "2024-10-25",
+    "reading_time": 8,
+    "hashtags": ["#NodeJS", "#Backend", "#Programming"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/cXcCY8K/42.webp",
+    "title": "10 Tips for Writing Clean JavaScript",
+    "author": "Alex Johnson",
+    "author_image": "https://i.ibb.co.com/hLjxV5T/Dr-Alex-Johnson.png",
+    "posted_date": "2024-09-15",
+    "reading_time": 4,
+    "hashtags": ["#JavaScript", "#CodingTips", "#BestPractices"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/n6PFGg9/524.webp",
+    "title": "A Beginner’s Guide to MongoDB",
+    "author": "Mia Chen",
+    "author_image": "https://i.ibb.co.com/QFX4PgB/Screenshot-8.png",
+    "posted_date": "2024-08-22",
+    "reading_time": 6,
+    "hashtags": ["#MongoDB", "#Database", "#NoSQL"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co.com/mzjNwKZ/images.jpg",
+    "title": "Building Restful APIs with Express.js",
+    "author": "Mark Lee",
+    "author_image": "https://i.ibb.co.com/brDJX1W/Ask-The-Expert-Mark-Leeson-1140x700.png",
+    "posted_date": "2024-11-05",
+    "reading_time": 7,
+    "hashtags": ["#ExpressJS", "#API", "#WebDevelopment"]
+  }
+]
