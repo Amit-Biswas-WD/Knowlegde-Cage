@@ -13,7 +13,7 @@ function App() {
   };
 
   const handleAddToBookMin = (min) => {
-    console.log("Add to Min");
+    setBookMin(bookMin + min);
   };
 
   return (
@@ -24,7 +24,7 @@ function App() {
           handleAddToBookMark={handleAddToBookMark}
           handleAddToBookMin={handleAddToBookMin}
         />
-        <BookMarks bookMarks={bookMarks} />
+        <BookMarks bookMarks={bookMarks} bookMin={bookMin} />
       </div>
     </div>
   );

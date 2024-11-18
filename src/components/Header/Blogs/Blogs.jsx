@@ -17,6 +17,7 @@ const Blogs = ({ handleAddToBookMark, handleAddToBookMin }) => {
       {blogs.map((blog) => (
         <Blog
           handleAddToBookMark={handleAddToBookMark}
+          handleAddToBookMin={handleAddToBookMin}
           key={blog.id}
           blog={blog}
         />
@@ -27,6 +28,7 @@ const Blogs = ({ handleAddToBookMark, handleAddToBookMin }) => {
 
 Blogs.propTypes = {
   handleAddToBookMark: PropTypes.func,
+  handleAddToBookMin: PropTypes.func,
 };
 
 export default Blogs;
